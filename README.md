@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
