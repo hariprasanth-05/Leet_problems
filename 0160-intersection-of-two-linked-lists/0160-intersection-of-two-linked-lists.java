@@ -10,20 +10,36 @@
  * }
  */
 public class Solution {
+    public ListNode collisionpoint(ListNode t1, ListNode t2,int d){
+        while(d > 0 ){
+            d--;
+            t2 = t2.next;
+        }
+        while(t1 != t2){
+            t1 = t1.next;
+            t2 = t2.next;
+        }
+        return t1;
+    }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode temp1 = headA;
-        ListNode temp2 = headB;
-        Map<ListNode,Integer> mpp = new HashMap<>();
-        while(temp1 != null){
-            mpp.put(temp1,1);
-            temp1 = temp1.next;
+        ListNode temp = headA;
+        int n1 = 0;
+        int n2 = 0;
+        while(temp != null){
+            n1++;
+            temp = temp.next;
         }
-        while(temp2 != null){
-            if(mpp.containsKey(temp2)){
-                return temp2;
-            }
-            temp2 = temp2.next;
+        temp = headB;
+        while(temp != null){
+            n2++;
+            temp = temp.next;
         }
-        return null;
+        
+        if(n1 < n2){
+            return collisionpoint(headA,headB,n2-n1);
+        }
+        else{
+            return collisionpoint(headB,headA,n1-n2);
+        }
     }
 }
