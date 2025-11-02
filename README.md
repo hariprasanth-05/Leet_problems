@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
