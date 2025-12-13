@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/hariprasanth-05/Leet_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/0058-length-of-last-word) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hariprasanth-05/Leet_problems/tree/master/0242-valid-anagram) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hariprasanth-05/Leet_problems/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
