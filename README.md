@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/hariprasanth-05/Leet_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hariprasanth-05/Leet_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/0058-length-of-last-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hariprasanth-05/Leet_problems/tree/master/0014-longest-common-prefix) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hariprasanth-05/Leet_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
