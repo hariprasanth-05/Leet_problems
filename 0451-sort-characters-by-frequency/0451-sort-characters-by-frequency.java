@@ -12,19 +12,22 @@ class Solution {
             if(bucket[val] == null){
                 bucket[val] = new ArrayList<>();
             }
-            int num = val;
-            while(num > 0){
-                bucket[val].add(key);
-                num--;
-            }
+            bucket[val].add(key);
+            // int num = val;
+            // while(num > 0){
+            //     bucket[val].add(key);
+            //     num--;
+            // }
             
         }
 
         StringBuilder res = new StringBuilder();
         for(int i=bucket.length-1; i>=0; i--){
             if(bucket[i] != null){
-                for(Character j:bucket[i]){
-                    res.append(j);
+                for(Character ch:bucket[i]){
+                    for(int j=0;j<i;j++){
+                        res.append(ch);
+                    }     
                 }
             }
         }
