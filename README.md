@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hariprasanth-05/Leet_problems/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/hariprasanth-05/Leet_problems/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
 | ------- |
