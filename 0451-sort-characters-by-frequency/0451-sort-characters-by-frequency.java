@@ -20,14 +20,14 @@ class Solution {
             
         }
 
-        String res = "";
+        StringBuilder res = new StringBuilder();
         for(int i=bucket.length-1; i>=0; i--){
             if(bucket[i] != null){
                 for(Character j:bucket[i]){
-                    res += j;
+                    res.append(j);
                 }
             }
         }
-        return res;
+        return res.toString();
     }
 }
