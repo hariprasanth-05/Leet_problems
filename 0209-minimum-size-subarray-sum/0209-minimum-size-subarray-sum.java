@@ -11,7 +11,6 @@ class Solution {
                 left++;
             }
         }
-        if(min < target) return min;
-        else return 0;
+        return (min < target)? min:0;
     }
 }
