@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
