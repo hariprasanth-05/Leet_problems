@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/hariprasanth-05/Leet_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hariprasanth-05/Leet_problems/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/hariprasanth-05/Leet_problems/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
