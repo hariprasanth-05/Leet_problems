@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariprasanth-05/Leet_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
