@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/hariprasanth-05/Leet_problems/tree/master/0319-bulb-switcher) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
+| [3783-mirror-distance-of-an-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Trie
 |  |
 | ------- |
