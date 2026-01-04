@@ -14,9 +14,12 @@ class Solution {
                         sum += num/j;
                     }
                 }
+                if(cnt > 4){
+                break;
+            }
             }
             if(cnt == 4){
-                res += sum ;
+                res += sum;
             }
         }
         return res;
