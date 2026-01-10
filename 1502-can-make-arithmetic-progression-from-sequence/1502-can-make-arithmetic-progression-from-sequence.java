@@ -1,7 +1,6 @@
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
-        Set<Integer> st = new HashSet<>();
         int diff = arr[0] - arr[1];
         for(int i=arr.length-2; i>0;i--){
             if(arr[i]-arr[i+1]!=diff){
