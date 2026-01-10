@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
+| [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Trie
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Memoization
 |  |
