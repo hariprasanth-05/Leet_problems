@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariprasanth-05/Leet_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hariprasanth-05/Leet_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hariprasanth-05/Leet_problems/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0796-rotate-string) |
