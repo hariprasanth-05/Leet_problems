@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/hariprasanth-05/Leet_problems/tree/master/0319-bulb-switcher) |
+| [0728-self-dividing-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
