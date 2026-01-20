@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hariprasanth-05/Leet_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hariprasanth-05/Leet_problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hariprasanth-05/Leet_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hariprasanth-05/Leet_problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hariprasanth-05/Leet_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
