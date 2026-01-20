@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hariprasanth-05/Leet_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -326,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
