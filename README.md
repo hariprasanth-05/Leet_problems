@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/hariprasanth-05/Leet_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hariprasanth-05/Leet_problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/hariprasanth-05/Leet_problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariprasanth-05/Leet_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariprasanth-05/Leet_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hariprasanth-05/Leet_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hariprasanth-05/Leet_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hariprasanth-05/Leet_problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Function
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
