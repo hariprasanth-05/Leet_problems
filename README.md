@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/hariprasanth-05/Leet_problems/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
