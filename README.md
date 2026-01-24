@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/hariprasanth-05/Leet_problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasanth-05/Leet_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hariprasanth-05/Leet_problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasanth-05/Leet_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/hariprasanth-05/Leet_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
