@@ -1,13 +1,12 @@
 class Solution {
     public int minimumPrefixLength(int[] nums) {
-        int i = 0;
-        int ans = 0;
-        while(i < nums.length-1){
-            if(nums[i] >= nums[i+1]){
-                ans = i+1;
+        int i = nums.length-1;
+        while(i > 0){
+            if(nums[i] <= nums[i-1]){
+                return i;
             }
-            i++;
+            i--;
         }
-        return ans;
+        return 0;
     }
 }
