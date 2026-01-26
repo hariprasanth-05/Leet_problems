@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasanth-05/Leet_problems/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/hariprasanth-05/Leet_problems/tree/master/0319-bulb-switcher) |
 | [0728-self-dividing-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
