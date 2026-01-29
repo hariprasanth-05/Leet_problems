@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hariprasanth-05/Leet_problems/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/hariprasanth-05/Leet_problems/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
+| [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
