@@ -14,7 +14,7 @@ class Solution {
                 }
                 l++;
             }
-            maxLen = Math.max(maxLen, r-l+1);
+            if(freq.size() <= 2)maxLen = Math.max(maxLen, r-l+1);
             r++;
         }
         return maxLen;
