@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasanth-05/Leet_problems/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariprasanth-05/Leet_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariprasanth-05/Leet_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hariprasanth-05/Leet_problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Memoization
