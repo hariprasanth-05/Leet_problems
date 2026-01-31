@@ -7,12 +7,11 @@ class Solution {
             }
             else{
                 int mod = nums[i] % k;
-		        int u=nums[i] / k;
-                cnt +=u;
                 if(mod != 0){
                     cnt++;
                 }
-                 
+                int u=nums[i] / k;
+                cnt +=u; 
             }    
         }
         return cnt;
@@ -20,10 +19,8 @@ class Solution {
     
     public int minimumK(int[] nums) {
         int h = 0;
-        for(int i = 0; i < nums.length; i++){
-            h+=nums[i];
-        }
-        h = Math.max(nums.length,h);
+        Arrays.sort(nums);
+        h = Math.max(nums[nums.length-1],nums.length);
         int l = 1;
         while(l <= h){
             int m = (l + h) / 2;
