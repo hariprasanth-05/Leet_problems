@@ -11,16 +11,16 @@ class Solution {
 
             while((r-l+1)-maxfreq > k){
                 hash[s.charAt(l)-'A']--;
-                maxfreq = 0;
-                for(int i = 0; i < hash.length; i++){
-                    maxfreq = Math.max(hash[i],maxfreq);
-                }
+                // maxfreq = 0;
+                // for(int i = 0; i < hash.length; i++){
+                //     maxfreq = Math.max(hash[i],maxfreq);
+                // }
                 l++;
             }
 
-            if((r-l+1)- maxfreq<= k){
+            // if((r-l+1)- maxfreq<= k){
                 maxLen = Math.max(maxLen, r-l+1);
-            }
+            // }
             r++;
         }
         return maxLen;
