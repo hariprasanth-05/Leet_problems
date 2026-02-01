@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/hariprasanth-05/Leet_problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0328-odd-even-linked-list) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariprasanth-05/Leet_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/hariprasanth-05/Leet_problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hariprasanth-05/Leet_problems/tree/master/0242-valid-anagram) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hariprasanth-05/Leet_problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/hariprasanth-05/Leet_problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hariprasanth-05/Leet_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0232-implement-queue-using-stacks) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hariprasanth-05/Leet_problems/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hariprasanth-05/Leet_problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
