@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3637-trionic-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3637-trionic-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/hariprasanth-05/Leet_problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hariprasanth-05/Leet_problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
