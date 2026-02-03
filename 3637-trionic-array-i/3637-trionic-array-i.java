@@ -15,8 +15,7 @@ class Solution {
                 break;
             }        
         }
-        System.out.print(ind);
-        System.out.println(f);
+        
         for(int i = ind ; i < nums.length-1;i++){
             if(nums[i] > nums[i+1]){
                 s = true;
@@ -26,8 +25,7 @@ class Solution {
                 break;
             }
         }
-        System.out.print(ind);
-        System.out.print(s);
+        
         for(int i = ind; i < nums.length-1; i++){
             if(nums[i] < nums[i+1]){
                 t = true;
@@ -37,7 +35,7 @@ class Solution {
                 break;
             }
         }
-        System.out.print(t);
+        
         return (f && s && t);
         
     }
