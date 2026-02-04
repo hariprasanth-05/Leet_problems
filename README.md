@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/hariprasanth-05/Leet_problems/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0043-multiply-strings) |
+| [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
