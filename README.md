@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3637-trionic-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3637-trionic-array-i) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
+| [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
