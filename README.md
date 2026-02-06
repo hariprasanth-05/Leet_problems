@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hariprasanth-05/Leet_problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3637-trionic-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/hariprasanth-05/Leet_problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
