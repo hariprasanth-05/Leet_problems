@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasanth-05/Leet_problems/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/hariprasanth-05/Leet_problems/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Memoization
