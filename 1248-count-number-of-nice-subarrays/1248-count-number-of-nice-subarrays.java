@@ -7,12 +7,9 @@ class Solution {
         int sum = 0;
         int cnt = 0;
         while(r < n){
-            if((nums[r] % 2) == 1){
-                sum += nums[r];
-            }
-            
+            sum += nums[r] % 2;
             while(sum > k){
-                if((nums[l] % 2) == 1) sum -= nums[l];
+                sum -= nums[l] % 2;
                 l++;
             }
             if(sum <= k){
@@ -23,9 +20,9 @@ class Solution {
         return cnt;
     }
     public int numberOfSubarrays(int[] nums, int k) {
-        for(int i = 0; i < nums.length; i++){
-            nums[i] = nums[i] % 2;
-        }
+        // for(int i = 0; i < nums.length; i++){
+        //     nums[i] = nums[i] % 2;
+        // }
         
         int n1 = findSubarr(nums,k);
         int n2 = findSubarr(nums,k-1);
