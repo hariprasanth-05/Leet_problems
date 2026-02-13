@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/hariprasanth-05/Leet_problems/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/hariprasanth-05/Leet_problems/tree/master/1108-defanging-an-ip-address) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hariprasanth-05/Leet_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
