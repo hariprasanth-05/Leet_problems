@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hariprasanth-05/Leet_problems/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Monotonic Queue
 |  |
