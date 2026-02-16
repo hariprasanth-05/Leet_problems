@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hariprasanth-05/Leet_problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/hariprasanth-05/Leet_problems/tree/master/0168-excel-sheet-column-title) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hariprasanth-05/Leet_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/hariprasanth-05/Leet_problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/hariprasanth-05/Leet_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/0263-ugly-number) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/hariprasanth-05/Leet_problems/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hariprasanth-05/Leet_problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Monotonic Queue
