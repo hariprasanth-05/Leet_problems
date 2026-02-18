@@ -5,7 +5,6 @@ class Solution {
         int l = 0;
         int r = 1;
         int cnt = 0;
-        Map<String,Integer> pairs = new HashMap<>();
         while(r < n){
             if(words[l].length() < k || words[r].length() < k ) {
                 l = r;
