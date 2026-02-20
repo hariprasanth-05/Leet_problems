@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Trie
 |  |
