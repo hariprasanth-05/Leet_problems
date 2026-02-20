@@ -1,15 +1,15 @@
 class Solution {
     public int minimumLength(String s) {
-        Map<Character,Integer> freq = new HashMap<>();
+        int[] hash = new int[26]; 
         for(char ch : s.toCharArray()){
-            freq.put(ch, freq.getOrDefault(ch,0)+1);
-        } 
+            hash[ch-'a']++;
+        }
         int min = 0;
-        for(Map.Entry<Character,Integer> entry : freq.entrySet()){
-            if(entry.getValue() % 2 == 0){
+        for(int num : hash){
+            if(num % 2 == 0 && num != 0){
                 min += 2;
             }
-            else{
+            else if(num % 2 != 0 && num != 0){
                 min += 1;
             }
         }
