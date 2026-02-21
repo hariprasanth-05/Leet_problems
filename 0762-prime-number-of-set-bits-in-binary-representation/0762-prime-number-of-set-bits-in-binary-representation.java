@@ -12,12 +12,8 @@ class Solution {
         prime.add(19);
         int res = 0;
         for(int i = left; i <= right; i++){
-            String bin = Integer.toBinaryString(i);
-            int cnt1 = 0;
-            for(int j = 0; j < bin.length(); j++){
-                if(bin.charAt(j) == '1') cnt1++;
-            }
-            if(prime.contains(cnt1)) res++;
+            int bit = Integer.bitCount(i);
+            if(prime.contains(bit))res++;
         }
         return res;
     }
