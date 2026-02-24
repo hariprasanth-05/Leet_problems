@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
 | [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
