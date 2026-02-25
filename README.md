@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3848-check-digitorial-permutation](https://github.com/hariprasanth-05/Leet_problems/tree/master/3848-check-digitorial-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3848-check-digitorial-permutation](https://github.com/hariprasanth-05/Leet_problems/tree/master/3848-check-digitorial-permutation) |
 ## Trie
 |  |
 | ------- |
