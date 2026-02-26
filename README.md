@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hariprasanth-05/Leet_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/hariprasanth-05/Leet_problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hariprasanth-05/Leet_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Array
