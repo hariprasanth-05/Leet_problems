@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hariprasanth-05/Leet_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/hariprasanth-05/Leet_problems/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## String Matching
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/hariprasanth-05/Leet_problems/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/hariprasanth-05/Leet_problems/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Monotonic Queue
 |  |
 | ------- |
