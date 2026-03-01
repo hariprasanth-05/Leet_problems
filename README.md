@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hariprasanth-05/Leet_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/hariprasanth-05/Leet_problems/tree/master/1108-defanging-an-ip-address) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hariprasanth-05/Leet_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
