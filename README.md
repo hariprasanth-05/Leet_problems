@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/hariprasanth-05/Leet_problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3668-restore-finishing-order](https://github.com/hariprasanth-05/Leet_problems/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hariprasanth-05/Leet_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/hariprasanth-05/Leet_problems/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3637-trionic-array-i) |
+| [3668-restore-finishing-order](https://github.com/hariprasanth-05/Leet_problems/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/hariprasanth-05/Leet_problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hariprasanth-05/Leet_problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
