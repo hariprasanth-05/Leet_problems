@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasanth-05/Leet_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hariprasanth-05/Leet_problems/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Queue
 |  |
 | ------- |
