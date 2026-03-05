@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2785-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3110-score-of-a-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
