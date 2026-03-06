@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/hariprasanth-05/Leet_problems/tree/master/1108-defanging-an-ip-address) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hariprasanth-05/Leet_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
