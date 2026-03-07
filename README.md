@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2785-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/hariprasanth-05/Leet_problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3110-score-of-a-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/hariprasanth-05/Leet_problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2942-find-words-containing-character](https://github.com/hariprasanth-05/Leet_problems/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
