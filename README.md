@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/hariprasanth-05/Leet_problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/hariprasanth-05/Leet_problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3110-score-of-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/hariprasanth-05/Leet_problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/hariprasanth-05/Leet_problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/hariprasanth-05/Leet_problems/tree/master/2942-find-words-containing-character) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/hariprasanth-05/Leet_problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hariprasanth-05/Leet_problems/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/hariprasanth-05/Leet_problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Queue
 |  |
 | ------- |
