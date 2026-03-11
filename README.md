@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/hariprasanth-05/Leet_problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/hariprasanth-05/Leet_problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3110-score-of-a-string) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hariprasanth-05/Leet_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/hariprasanth-05/Leet_problems/tree/master/2000-reverse-prefix-of-word) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Tree
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hariprasanth-05/Leet_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/hariprasanth-05/Leet_problems/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
