@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/hariprasanth-05/Leet_problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hariprasanth-05/Leet_problems/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/hariprasanth-05/Leet_problems/tree/master/0605-can-place-flowers) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/hariprasanth-05/Leet_problems/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
