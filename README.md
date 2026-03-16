@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/hariprasanth-05/Leet_problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hariprasanth-05/Leet_problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hariprasanth-05/Leet_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/hariprasanth-05/Leet_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hariprasanth-05/Leet_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
