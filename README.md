@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hariprasanth-05/Leet_problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hariprasanth-05/Leet_problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/hariprasanth-05/Leet_problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/hariprasanth-05/Leet_problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hariprasanth-05/Leet_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
