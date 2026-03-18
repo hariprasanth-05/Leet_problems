@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hariprasanth-05/Leet_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/hariprasanth-05/Leet_problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3668-restore-finishing-order](https://github.com/hariprasanth-05/Leet_problems/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/hariprasanth-05/Leet_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hariprasanth-05/Leet_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
