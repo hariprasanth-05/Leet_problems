@@ -11,6 +11,7 @@ class Solution {
                     int diff = n1[i]-n1[0];
                     if(diff >= 1 && diff % 2 != 0){
                         res = false;
+                        break;
                     } 
                 }
             }
@@ -22,6 +23,7 @@ class Solution {
                     int diff = n1[i]-n1[0];
                     if(diff >= 1 && diff % 2 != 1 ){
                         res = false;
+                        break;
                     } 
                 }
             }
