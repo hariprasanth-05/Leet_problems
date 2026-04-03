@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/hariprasanth-05/Leet_problems/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/hariprasanth-05/Leet_problems/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasanth-05/Leet_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hariprasanth-05/Leet_problems/tree/master/0338-counting-bits) |
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/hariprasanth-05/Leet_problems/tree/master/1137-n-th-tribonacci-number) |
+| [1395-count-number-of-teams](https://github.com/hariprasanth-05/Leet_problems/tree/master/1395-count-number-of-teams) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Hash Function
 |  |
@@ -577,4 +579,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hariprasanth-05/Leet_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/hariprasanth-05/Leet_problems/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/hariprasanth-05/Leet_problems/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
