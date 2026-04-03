@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/hariprasanth-05/Leet_problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hariprasanth-05/Leet_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariprasanth-05/Leet_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hariprasanth-05/Leet_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hariprasanth-05/Leet_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariprasanth-05/Leet_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hariprasanth-05/Leet_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariprasanth-05/Leet_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Memoization
