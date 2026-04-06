@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hariprasanth-05/Leet_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hariprasanth-05/Leet_problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
+| [0874-walking-robot-simulation](https://github.com/hariprasanth-05/Leet_problems/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hariprasanth-05/Leet_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hariprasanth-05/Leet_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/hariprasanth-05/Leet_problems/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/hariprasanth-05/Leet_problems/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/hariprasanth-05/Leet_problems/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/hariprasanth-05/Leet_problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/hariprasanth-05/Leet_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/0912-sort-an-array) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/hariprasanth-05/Leet_problems/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/hariprasanth-05/Leet_problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/hariprasanth-05/Leet_problems/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/hariprasanth-05/Leet_problems/tree/master/0874-walking-robot-simulation) |
 | [1518-water-bottles](https://github.com/hariprasanth-05/Leet_problems/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/hariprasanth-05/Leet_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
