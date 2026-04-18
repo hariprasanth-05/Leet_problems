@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3110-score-of-a-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/hariprasanth-05/Leet_problems/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hariprasanth-05/Leet_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hariprasanth-05/Leet_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/hariprasanth-05/Leet_problems/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hariprasanth-05/Leet_problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3271-hash-divided-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hariprasanth-05/Leet_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3379-transformed-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariprasanth-05/Leet_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
