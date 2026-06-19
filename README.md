@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hariprasanth-05/Leet_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/hariprasanth-05/Leet_problems/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/hariprasanth-05/Leet_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/hariprasanth-05/Leet_problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariprasanth-05/Leet_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hariprasanth-05/Leet_problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hariprasanth-05/Leet_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariprasanth-05/Leet_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hariprasanth-05/Leet_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/hariprasanth-05/Leet_problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hariprasanth-05/Leet_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2121-intervals-between-identical-elements](https://github.com/hariprasanth-05/Leet_problems/tree/master/2121-intervals-between-identical-elements) |
 | [2485-find-the-pivot-integer](https://github.com/hariprasanth-05/Leet_problems/tree/master/2485-find-the-pivot-integer) |
